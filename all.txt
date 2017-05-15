@@ -1,2 +1,2 @@
 net.flaviusb.blankfilter
-com.arcabim.mvd
+com.arcabim.mvdlib
