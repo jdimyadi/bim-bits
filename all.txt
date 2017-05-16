@@ -1,2 +1,2 @@
-com.arcabim.mvdlib.getFloorCoordinates
+com.arcabim.mvdlibtest.getFloorCoordinates
 net.flaviusb.blankfilter
